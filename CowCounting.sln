@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CowCounting", "CowCounting\CowCounting.csproj", "{751B8443-B953-4176-A4BD-746A26A50D1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CowCountingTest", "CowCountingTest\CowCountingTest.csproj", "{7BFCEAAB-5F6A-49A1-BD25-40F4B612A456}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{751B8443-B953-4176-A4BD-746A26A50D1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{751B8443-B953-4176-A4BD-746A26A50D1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{751B8443-B953-4176-A4BD-746A26A50D1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{751B8443-B953-4176-A4BD-746A26A50D1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BFCEAAB-5F6A-49A1-BD25-40F4B612A456}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BFCEAAB-5F6A-49A1-BD25-40F4B612A456}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BFCEAAB-5F6A-49A1-BD25-40F4B612A456}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BFCEAAB-5F6A-49A1-BD25-40F4B612A456}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C78269DA-4FA3-49BD-A55A-ED9F9F06E452}
+	EndGlobalSection
+EndGlobal
